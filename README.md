@@ -136,7 +136,7 @@ The dashboard follows a modern corporate design approach:
 
 ### 📊 Linde Industrial Gas Sales Analysis
 
-<img src="Linde Industrial Gas Dashboard.png" width="100%">
+<img src="Linde Industrial Gas Sales.png" width="100%">
 
 </td>
 
