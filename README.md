@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Linde Industrial Gas Dashboard</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=118DFF&center=true&vCenter=true&width=1000&lines=Power+BI+Business+Intelligence+Dashboard;Lnde+Industrial+Gas+Sales+Analytics;Interactive+Data+Visualization;Regional+Performance+Insights;Turning+Data+Into+Business+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=118DFF&center=true&vCenter=true&width=1000&lines=Power+BI+Business+Intelligence+Dashboard;Linde+Industrial+Gas+Sales+Analytics;Interactive+Data+Visualization;Regional+Performance+Insights;Turning+Data+Into+Business+Decisions" />
 </p>
 
 <p align="center">
