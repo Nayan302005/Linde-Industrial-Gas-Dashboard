@@ -146,7 +146,7 @@ The dashboard follows a modern corporate design approach:
 
 ### 👥 Linde Customer and Sales Analysis
 
-<img src="Linde Customer and Sales Analysis.png" width="100%">
+<img src="Linde Customer and Sales Analytics.png" width="100%">
 
 </td>
 </tr>
